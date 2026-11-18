@@ -1,0 +1,93 @@
+Le plan avance par incréments. Chacun produit quelque chose que tu testes sur une vraie app legacy avant de passer au suivant. Jusqu’à l’incrément 6, tout se fait sur un seul parcours de l’app, par exemple la connexion ou le CRUD d’une entité. Tu élargis à l’app entière seulement à l’incrément 7.
+
+Proposition d’allègement
+
+Agents : 5 → 2
+
+Pour MOA, MOE et Archi, l’humain valide chaque gate, donc ces phases tournent très bien dans la session principale avec des skills et des commandes. Un agent n’est utile que s’il faut un contexte isolé.
+Je garde 2 agents pour la boucle feature :
+testeur : fait le travail de Dev 1 (TU et revue).
+dev : fait le travail de Dev 2.
+C’est là que l’isolation compte vraiment : celui qui écrit les tests ne doit pas être celui qui écrit le code.
+Le découpage en backlog devient un skill lancé par l’humain.
+
+Livrables
+
+Expression de besoin + inventaire fonctionnel → un seul inventaire fonctionnel.
+SFG + SFD → une spec par domaine fonctionnel. Tu les sépares plus tard si une app le demande.
+Inventaire technique + DAT + choix de stack + stratégie TI → un seul DAT, découpé en sections.
+STD → une section de la fiche feature, pas un document à part.
+Critères de validation MOE → les critères d’acceptation inscrits dans la fiche feature.
+PV → un rapport par niveau de remontée, tous sur le même template.
+
+Remontée : validation + recette → un seul niveau E2E, rejoué contre l’oracle
+
+C’est un écart au V.
+Ma raison : les deux niveaux comparent l’app à ce qu’on attend fonctionnellement, et sans humain distinct de chaque côté, la distinction ne tient plus.
+Si ton école ou ton ESN attend un V complet, garde les deux niveaux.
+
+Commandes : 8 → 4
+
+Je garde /init-mission, /phase <nom>, /feature F-XXX et /anomalie.
+La vérification des gates passe dans un hook au lieu d’être recodée dans chaque commande.
+
+Plus tard
+
+evals/, le skill de qualification d’anomalie (un template suffit au début) et le multi-plateforme. Je tranche « web d’abord ».
+Plan incrémental
+
+Incrément 0 : préparer la cible
+
+Choisis une petite app legacy web avec un backend, et fais-la tourner en local sur une copie de la BDD.
+Crée le dépôt de mission à la main, sans plugin pour l’instant.
+Critère de fin : l’app tourne et se réinitialise en une commande.
+
+Incrément 1 : explorer le legacy et prouver l’oracle (concept : script, sans MCP)
+
+Détail dans docs/increment-1-exploration.md.
+1a. Un script Playwright parcourt les liens GET de l’app, par rôle, et sauvegarde le DOM après JavaScript, une capture et les appels réseau (HAR masqué). Il doit fonctionner pour un site statique comme pour une SPA.
+1b. Choisir un parcours dans ce snapshot, le décrire en .feature et le rejouer en test E2E (playwright-bdd ou cucumber).
+Critère de fin : les tests T1 à T9 sont verts, puis le scénario passe au vert contre le legacy, deux fois de suite.
+Si ça ne tient pas, tout le reste du projet est à revoir. C’est pour ça qu’il vient en premier.
+
+Incrément 2 : protéger le legacy (concept : hook)
+
+Ajoute un hook PreToolUse qui bloque Edit, Write et les commandes Bash qui écrivent dans legacy/.
+Critère de fin : une tentative d’écriture dans legacy/ est refusée.
+
+Incrément 3 : rétro-ingénierie (concept : skill)
+
+Transforme le crawl et le parcours de l’incrément 1 en skill retro-ingenierie, avec l’analyse statique et le template d’inventaire fonctionnel.
+Critère de fin : sur le parcours choisi, le skill produit l’inventaire et les .feature sans que tu le guides.
+
+Incrément 4 : spec + DAT (concept : slash command)
+
+Crée un skill specification, un skill architecture, la commande /phase et etat-mission.md.
+Crée le hook de gate : il refuse la phase N tant que la gate N-1 n’est pas validée.
+Critère de fin : une spec et un DAT existent pour le parcours, et le choix de stack a été tranché à la gate.
+
+Incrément 5 : une fiche feature (concept : skill avec template)
+
+Crée le skill decoupage-backlog et fais-lui produire une seule fiche autosuffisante.
+Critère de fin : tu relis la fiche et tu n’as besoin d’aucun autre document pour savoir quoi coder.
+
+Incrément 6 : boucle feature (concept : subagents)
+
+Crée les agents testeur et dev, et la commande /feature.
+Critère de fin : les TU passent, et le .feature de l’incrément 1 passe contre la nouvelle app.
+À ce stade, tu as un bout de chaîne fonctionnel complet, de la rétro-ingénierie jusqu’à la recette.
+
+Incrément 7 : élargir
+
+Passe à l’app entière : tous les parcours, plusieurs features, et des TI entre les features.
+Ajoute le template de fiche d’anomalie et /anomalie dès que la première anomalie apparaît, pas avant.
+
+Incrément 8 : packager (concept : plugin + marketplace)
+
+Sors le .claude/ du dépôt de mission vers le dépôt d’outillage, et crée /init-mission.
+Critère de fin : tu installes le plugin dans une deuxième mission vide, et il marche.
+C’est un écart à ton étape 0. Packager tard évite de déboguer le plugin en même temps que les prompts. Le prix : déplacer des chemins une fois.
+
+Incrément 9 : evals
+
+Rejoue le pipeline sur l’app de l’incrément 0, figée comme référence.

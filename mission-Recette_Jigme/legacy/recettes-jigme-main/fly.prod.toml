@@ -1,0 +1,26 @@
+# PROD — NE PAS DÉPLOYER sans accord explicite de Jigmé. Aucun HONEYPOT (défaut 0 du Dockerfile), pas de ROBOTS_NOINDEX.
+# Build préalable : TARGET=prod LIENENBIO_URL=https://jigme.fr CONTACT_BASE=https://jigme.fr node build.mjs
+# Nom d'app à confirmer avant tout déploiement (aucune app créée).
+# INTERDIT : toute section [processes] et toute commande explicite (cmd, entrypoint, exec) : start.sh (CMD du Dockerfile) doit rester le point d'entrée,
+# sinon les contrôles TARGET / FLY_APP_NAME sont contournés. Contrôlé automatiquement par build.mjs (TARGET=prod).
+app = "recettes-jigme"
+primary_region = "cdg"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[build.args]
+  TARGET = "prod"
+
+[http_service]
+  internal_port = 8080
+  # D28 : false, sinon le proxy Fly redirige aussi le flycast (http://<app>.flycast) vers https://<app>.flycast (inutilisable).
+  # La redirection HTTPS des hôtes publics *.fly.dev est faite par nginx (X-Forwarded-Proto=http).
+  force_https = false
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "256mb"

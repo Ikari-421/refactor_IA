@@ -1,0 +1,40 @@
+# Généré / dépendances
+/dist/
+/build/
+/node_modules/
+/.cache/
+# Sauvegardes datées (restent sur le disque, hors Git)
+/backup-*/
+/nas-backup-*/
+/backups/
+# Captures d'écran volumineuses
+/screens/
+/shots/
+/captures/
+# Secrets (ne jamais versionner)
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets/
+**/secrets/
+*token*
+*.secret
+# Copies et journaux
+*.bak
+*.bak-*
+*.bak.*
+*.log
+*.tmp
+*.visibility-tmp
+
+# Bases et dumps
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+
+# Manifeste du build (généré, copié dans l’image)
+/build-manifest.json

@@ -1,0 +1,27 @@
+{
+  "name": "recettes-jigme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test tests/restaurants.test.mjs tests/lexique.test.mjs tests/visibility.test.mjs tests/materiel-images.test.mjs tests/trois-styles.test.cjs tests/postit-dismissal.cjs tests/recette-schema.test.mjs tests/cuisine-index.test.mjs tests/api-v1-recettes.test.mjs tests/api-v1-domaines.test.mjs tests/api-v1-webhooks.test.mjs tests/api-v1-brouillons.test.mjs tests/api-v1-admin-extra.test.mjs tests/back-write-client.test.mjs tests/back-switch-v231.test.mjs tests/admin-regen-v234.test.mjs tests/seo-gate-v235.test.mjs tests/admin-secret-h1.test.mjs tests/securite-m1-n3.test.mjs tests/bots-cle-propre-v236.test.mjs tests/securite-r123.test.mjs tests/analytics-v237.test.mjs tests/restaurants-r2.test.mjs tests/home-random-wide.test.mjs tests/editeur-v245.test.mjs tests/editeur-v246.test.mjs tests/relectures-v247.test.mjs tests/apercu-css-v249.test.mjs tests/materiel-apercu-v250.test.mjs tests/editeur-v251.test.mjs tests/titres-v252.test.mjs tests/construction-v255.test.mjs tests/construction-v256.test.mjs && python3 tests/stack-label-cascade.py > /dev/null && node tests/api-snapshot.mjs --check tests/fixtures/api-snapshot-d29.json --with-v1",
+    "test:dist": "scripts/compare-dist.sh tests/fixtures/dist-d29.sha256",
+    "build:verif": "printf 198 > preprod-version.txt && TARGET=preprod node build.mjs && npm run test:dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^5.4.3",
+    "jspdf": "4.2.1",
+    "leaflet": "1.9.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.3",
+    "esbuild": "^0.28.2",
+    "playwright": "^1.64.1",
+    "playwright-core": "^1.64.1",
+    "sharp": "^0.35.5",
+    "tailwindcss": "^4.3.3"
+  }
+}

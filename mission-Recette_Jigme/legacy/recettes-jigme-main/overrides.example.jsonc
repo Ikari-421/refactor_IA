@@ -1,0 +1,28 @@
+// EXEMPLE — NON PUBLIÉ (ce fichier n'est ni lu par build.mjs ni copié dans dist).
+// Format des recommandations matériel à recopier dans overrides.json, sous la clé de la recette.
+// "name" doit être EXACTEMENT le texte de l'article tel qu'il apparaît dans la fiche (champ equipment du YAML),
+// pour chaque variante où il apparaît (ex. « saladier ou KitchenAid » et « KitchenAid (crochet) ou saladier » sont deux noms différents).
+// - 1 reco  → le bouton pointe directement vers l'URL (nouvel onglet, rel="sponsored nofollow").
+// - 2+ recos → le bouton ouvre une pop-up listant les recos ; le fond est tiré au hasard parmi leurs images.
+// - aucune  → bouton neutre non cliquable.
+// url : lien affilié Amazon (https obligatoire). image : chemin local (ex. /img/recos/xxx.webp, à déposer dans src/img/recos/) ou URL https.
+// Les valeurs ci-dessous sont des PLACEHOLDERS, pas de vrais produits.
+{
+  "pain-a-burger-brioche": {
+    "equipment": [
+      {
+        "name": "plaque",
+        "recos": [
+          { "title": "<Titre du produit>", "url": "https://amzn.to/<VOTRE-LIEN>", "image": "/img/recos/<fichier>.webp" }
+        ]
+      },
+      {
+        "name": "four",
+        "recos": [
+          { "title": "<Produit A>", "url": "https://amzn.to/<LIEN-A>", "image": "/img/recos/<a>.webp" },
+          { "title": "<Produit B>", "url": "https://amzn.to/<LIEN-B>", "image": "/img/recos/<b>.webp" }
+        ]
+      }
+    ]
+  }
+}

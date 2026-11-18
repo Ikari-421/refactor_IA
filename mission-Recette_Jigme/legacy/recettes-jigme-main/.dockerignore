@@ -1,0 +1,49 @@
+# Contexte Docker préprod/prod — dist/ est requis ; data/ et materiel/ aussi (seed admin préprod).
+*.bak*
+.cache
+backup-*/
+backups/
+nas-backup-*
+nas-photos
+node_modules
+overrides.example.jsonc
+screens
+shots
+src/**
+!src/categories-surcharge.json
+# D41 : fichiers nécessaires à la génération ciblée dans l'image
+!src/logic.js
+!src/religion.js
+!src/lectures.json
+!src/titres.json
+!src/cuisines.json
+!src/verbes.json
+!src/dates-site.tsv
+!src/dates-nas-fichier.tsv
+!src/critical.css
+!src/home-ui.css
+# v250 : rendu du matériel de l'aperçu (materiel-apercu.mjs lit app.js)
+!src/app.js
+!src/fonts/
+!src/fonts/fonts.css
+footer-src
+img-src
+photos-jigme
+deux-lectures-essai
+docs
+*.cjs
+t-v*.cjs
+test*.cjs
+tk.cjs
+# .mjs à la racine (outils) — garder honeypot/**/*.mjs et la génération ciblée D41
+/*.mjs
+!honeypot/
+!generate-pages.mjs
+!generate-targeted.mjs
+!recipes-pipeline.mjs
+!howto-name.mjs
+!ssr.mjs
+!seo-checks.mjs
+!image-variants.mjs
+.git
+.admin-test

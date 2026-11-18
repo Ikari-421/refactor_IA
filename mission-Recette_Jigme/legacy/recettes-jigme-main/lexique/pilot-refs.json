@@ -1,0 +1,47 @@
+{
+  "creme-brulee": {
+    "traditionnelle": {
+      "infuser": "Cuisine/Lexique/infuser.md",
+      "blanchir": "Cuisine/Lexique/blanchir.md",
+      "filtrer": "Cuisine/Lexique/filtrer.md",
+      "bain-marie": "Cuisine/Lexique/bain-marie.md",
+      "chalumeau": "Cuisine/Lexique/chalumeau.md"
+    },
+    "ma_recette": {
+      "egrainer": "Cuisine/Lexique/egrainer.md",
+      "infuser": "Cuisine/Lexique/infuser.md",
+      "bain-marie": "Cuisine/Lexique/bain-marie.md",
+      "chalumeau": "Cuisine/Lexique/chalumeau.md"
+    },
+    "ma_recette_tonka": {
+      "blanchir": "Cuisine/Lexique/blanchir.md",
+      "raper": "Cuisine/Lexique/raper.md",
+      "chalumeau": "Cuisine/Lexique/chalumeau.md"
+    },
+    "vegan": {
+      "delayer": "Cuisine/Lexique/delayer.md",
+      "chalumeau": "Cuisine/Lexique/chalumeau.md"
+    },
+    "sans_lactose_sans_gluten": {
+      "infuser": "Cuisine/Lexique/infuser.md",
+      "blanchir": "Cuisine/Lexique/blanchir.md",
+      "filtrer": "Cuisine/Lexique/filtrer.md",
+      "bain-marie": "Cuisine/Lexique/bain-marie.md",
+      "chalumeau": "Cuisine/Lexique/chalumeau.md"
+    }
+  },
+  "tagliatelles-carbonara": {
+    "traditionnelle": {
+      "hors-du-feu": "Cuisine/Lexique/hors-du-feu.md",
+      "al-dente": "Cuisine/Lexique/al-dente.md"
+    },
+    "vegetarienne": {
+      "hors-du-feu": "Cuisine/Lexique/hors-du-feu.md",
+      "al-dente": "Cuisine/Lexique/al-dente.md"
+    },
+    "vegan": {
+      "hors-du-feu": "Cuisine/Lexique/hors-du-feu.md",
+      "al-dente": "Cuisine/Lexique/al-dente.md"
+    }
+  }
+}

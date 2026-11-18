@@ -1,0 +1,6 @@
+# Pipeline de Refacto
+
+## Phase-1 Audit
+- Exploration
+	- Sauvegarde du Dom après JavaScript
+	- Enregistrement des appels API

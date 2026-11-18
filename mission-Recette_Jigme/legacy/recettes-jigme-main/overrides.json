@@ -1,0 +1,1731 @@
+{
+ "charlotte-aux-mirabelles": {
+  "image": {
+   "url": "/img/charlotte-aux-mirabelles.webp",
+   "alt": "Mirabelles mûres sur la branche",
+   "credit": "Jakub N / Pexels",
+   "source": "https://www.pexels.com/photo/ripe-mirabelle-plums-on-tree-branches-30560209/"
+  },
+  "title_color": "light",
+  "lum": 69
+ },
+ "creme-brulee": {
+  "image": {
+   "url": "/img/creme-brulee.webp",
+   "alt": "Crème brûlée garnie de menthe",
+   "credit": "Unsplash",
+   "source": "https://unsplash.com/photos/creme-brulee-with-mint-garnish-on-a-blue-napkin-EIiS4WcsSGA"
+  },
+  "title_color": "dark",
+  "lum": 222
+ },
+ "pain-a-burger-brioche": {
+  "image": {
+   "url": "/img/pain-a-burger-brioche.webp",
+   "alt": "Pains à burger briochés au sésame",
+   "credit": "Amanda Lim / Unsplash",
+   "source": "https://unsplash.com/photos/a-close-up-of-a-tray-of-buns-9tPTZuqMsVY"
+  },
+  "title_color": "light",
+  "lum": 140,
+  "equipment": [
+   {
+    "names": [
+     "KitchenAid (crochet) ou saladier",
+     "saladier ou KitchenAid",
+     "KitchenAid ou saladier",
+     "KitchenAid"
+    ],
+    "label": "Robot pâtissier",
+    "image": "/img/eq/robot.webp",
+    "recos": [
+     {
+      "title": "Ooni Halo Core",
+      "url": "https://amzlink.to/az0OBaJiTczYv",
+      "image": "/img/eq/ooni-halo-core.webp",
+      "review": "Le petit nouveau très axé sur la pâte à pain et pizza, mais avec des accessoires pâtisserie en plus. Un robot pétrin qui fait aussi le job en pâtisserie."
+     },
+     {
+      "title": "KitchenAid Artisan",
+      "url": "https://amzlink.to/az0Zqxj8BNNZX",
+      "image": "/img/eq/kitchenaid-artisan.webp",
+      "review": "L'indémodable, le grand classique ! De nombreux accessoires qu'on peut ajouter et qui vont bien au-delà de la pâtisserie."
+     }
+    ]
+   }
+  ]
+ },
+ "ratatouille-nicoise": {
+  "image": {
+   "url": "/img/ratatouille-nicoise.webp",
+   "alt": "Ratatouille en poêle",
+   "credit": "Unsplash",
+   "source": "https://unsplash.com/photos/a-pan-filled-with-sliced-up-vegetables-on-top-of-a-wooden-table-3vDJ--i7w88"
+  },
+  "title_color": "light",
+  "lum": 74
+ },
+ "_inflections": {
+  "_doc": "Exceptions singulier/pluriel des ingrédients comptés (sans unité) : \"forme écrite dans la fiche\": [singulier, pluriel]",
+  "jaunes d'œufs": [
+   "jaune d'œuf",
+   "jaunes d'œufs"
+  ],
+  "jaune d'œuf": [
+   "jaune d'œuf",
+   "jaunes d'œufs"
+  ],
+  "blancs d'œufs": [
+   "blanc d'œuf",
+   "blancs d'œufs"
+  ],
+  "bouquet garni (thym, laurier, queue de persil)": [
+   "bouquet garni (thym, laurier, queue de persil)",
+   "bouquets garnis (thym, laurier, queue de persil)"
+  ],
+  "piment rouge (habanero, rocoto, ou ½ piment oiseau), épépiné": [
+   "piment rouge (habanero, rocoto, ou ½ piment oiseau), épépiné",
+   "piments rouges (habanero, rocoto, ou ½ piment oiseau), épépinés"
+  ]
+ },
+ "poulet-tikka-masala": {
+  "image": {
+   "url": "/img/poulet-tikka-masala.webp",
+   "alt": "Poulet tikka masala et riz safrané",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chicken_Tikka_Masala_-_Mohammed_-_Spice_Of_Life.jpg"
+  }
+ },
+ "ceviche-melon-banana": {
+  "image": {
+   "url": "/img/ceviche-melon-banana.webp",
+   "alt": "Ceviche de poisson (photo d'un ceviche péruvien)",
+   "credit": "Jorge G. Mori / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Ceviche_de_pescado_(La_Punta,_Callao).jpg"
+  }
+ },
+ "agneau-biryani": {
+  "image": {
+   "url": "/img/agneau-biryani.webp",
+   "alt": "Agneau biryani (photo d'illustration)",
+   "credit": "Alpha from Melbourne, Australia / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Lamb_Biryani_-_Biryani_House_AUD8.50_(3643374430).jpg"
+  }
+ },
+ "ail-confit": {
+  "image": {
+   "url": "/img/ail-confit.webp",
+   "alt": "Ail confit (photo d'illustration)",
+   "credit": "T.Tseng / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Garlic_Shrimp,_Garlic_Confit,_Budding_Chives.jpg"
+  }
+ },
+ "ajiaco": {
+  "image": {
+   "url": "/img/ajiaco.webp",
+   "alt": "Ajiaco (photo d'illustration)",
+   "credit": "Bernard Gagnon / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Ajiaco_in_Bogot%C3%A1.jpg"
+  }
+ },
+ "amuse-bouches-a-mousse-de-canard": {
+  "image": {
+   "url": "/img/amuse-bouches-a-mousse-de-canard.webp",
+   "alt": "Amuse bouches a mousse de canard (photo d'illustration)",
+   "credit": "Silar / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:02014._Verschiedene_Canap%C3%A9s,_Sanok.JPG"
+  }
+ },
+ "apple-pie": {
+  "image": {
+   "url": "/img/apple-pie.webp",
+   "alt": "Apple pie (photo d'illustration)",
+   "credit": "Shisma / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Slice_of_apple_pie_2.jpg"
+  }
+ },
+ "bavette-sauce-poivre": {
+  "image": {
+   "url": "/img/bavette-sauce-poivre.webp",
+   "alt": "Bavette sauce poivre (photo d'illustration)",
+   "credit": "Ruth Hartnup from Vancouver, Canada / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Steak_with_five_pepper_sauce.jpg"
+  }
+ },
+ "bento-au-saumon": {
+  "image": {
+   "url": "/img/bento-au-saumon.webp",
+   "alt": "Bento au saumon (photo d'illustration)",
+   "credit": "Maria from McLean, Virginia, USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Salmon_Bento_(2870807961).jpg"
+  }
+ },
+ "bento-vegetarien": {
+  "image": {
+   "url": "/img/bento-vegetarien.webp",
+   "alt": "Bento vegetarien (photo d'illustration)",
+   "credit": "gamene / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Potpourri_bento_(4036143092).jpg"
+  }
+ },
+ "blanquette-de-veau-gingembre-citronnelle": {
+  "image": {
+   "url": "/img/blanquette-de-veau-gingembre-citronnelle.webp",
+   "alt": "Blanquette de veau gingembre citronnelle (photo d'illustration)",
+   "credit": "Arnaud 25 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Blanquette_de_veau_%C3%A0_l%27ancienne_06.jpg"
+  }
+ },
+ "blanquette-vegetarienne": {
+  "image": {
+   "url": "/img/blanquette-vegetarienne.webp",
+   "alt": "Blanquette vegetarienne (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "bo-bun-au-boeuf": {
+  "image": {
+   "url": "/img/bo-bun-au-boeuf.webp",
+   "alt": "Bo bun au boeuf (photo d'illustration)",
+   "credit": "fabulousfabs / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bun_Bo_Nam_Bo.jpg"
+  }
+ },
+ "boeuf-bourguignon": {
+  "image": {
+   "url": "/img/boeuf-bourguignon.webp",
+   "alt": "Boeuf bourguignon (photo d'illustration)",
+   "credit": "balise42 / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Beef_bourguignon-01.jpg"
+  }
+ },
+ "boeuf-wellington": {
+  "image": {
+   "url": "/img/boeuf-wellington.webp",
+   "alt": "Boeuf wellington (photo d'illustration)",
+   "credit": "Snielsen1112 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Beef_Wellington_2019.jpg"
+  }
+ },
+ "brioche": {
+  "image": {
+   "url": "/img/brioche.webp",
+   "alt": "Brioche (photo d'illustration)",
+   "credit": "Jebulon / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Brioche_aux_p%C3%A9pites_de_chocolat.jpg"
+  }
+ },
+ "brownie-aux-noix": {
+  "image": {
+   "url": "/img/brownie-aux-noix.webp",
+   "alt": "Brownie aux noix (photo d'illustration)",
+   "credit": "Veganbaking.net / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Ultimate_Vegan_Brownies_with_walnuts,_mjune_2010.jpg"
+  }
+ },
+ "bubble-tea-dhiver": {
+  "image": {
+   "url": "/img/bubble-tea-dhiver.webp",
+   "alt": "Bubble tea dhiver (photo d'illustration)",
+   "credit": "Battlesnake1 / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+  }
+ },
+ "bubble-tea-mangue": {
+  "image": {
+   "url": "/img/bubble-tea-mangue.webp",
+   "alt": "Bubble tea mangue (photo d'illustration)",
+   "credit": "Battlesnake1 / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pearl_Milk_Tea_in_Chun_Shui_Tang.jpg"
+  }
+ },
+ "buche-de-noel-chocolat-noisette": {
+  "image": {
+   "url": "/img/buche-de-noel-chocolat-noisette.webp",
+   "alt": "Buche de noel chocolat noisette (photo d'illustration)",
+   "credit": "Jebulon / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:B%C3%BBche_de_No%C3%ABl_chocolat_framboise_maison.jpg"
+  }
+ },
+ "burger-a-lencre-de-seiche": {
+  "image": {
+   "url": "/img/burger-a-lencre-de-seiche.webp",
+   "alt": "Burger a lencre de seiche (photo d'illustration)",
+   "credit": "JIP / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_%26_Bleu_Burger_at_home.jpg"
+  }
+ },
+ "burger-barbecue": {
+  "image": {
+   "url": "/img/burger-barbecue.webp",
+   "alt": "Burger barbecue (photo d'illustration)",
+   "credit": "domdomegg / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Burger_being_placed_on_barbecue_next_to_others.jpg"
+  }
+ },
+ "burger-pommes-pailles": {
+  "image": {
+   "url": "/img/burger-pommes-pailles.webp",
+   "alt": "Burger pommes pailles (photo d'illustration)",
+   "credit": "philippe.charles9 on Flickr / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Windows_7_Whopper_-_Burger_King.jpg"
+  }
+ },
+ "burger-vegetarien": {
+  "image": {
+   "url": "/img/burger-vegetarien.webp",
+   "alt": "Burger vegetarien (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Fancy_Veggie_Burger_and_Fries_-_Joe%27s_Burger_House_2024-07-07.jpg"
+  }
+ },
+ "cabillaud-au-curry": {
+  "image": {
+   "url": "/img/cabillaud-au-curry.webp",
+   "alt": "Cabillaud au curry (photo d'illustration)",
+   "credit": "Kalakki at Malayalam Wikipedia / Wikimedia Commons (CC BY-SA 2.5)",
+   "source": "https://commons.wikimedia.org/wiki/File:Meen_curry_2.JPG"
+  }
+ },
+ "cake-banane-chocolat-noisette": {
+  "image": {
+   "url": "/img/cake-banane-chocolat-noisette.webp",
+   "alt": "Cake banane chocolat noisette (photo d'illustration)",
+   "credit": "Carolien Dekeersmaeker / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Banana_Chocolate_Chip_Bread,_March_2009.jpg"
+  }
+ },
+ "cake-butternut-et-curcuma": {
+  "image": {
+   "url": "/img/cake-butternut-et-curcuma.webp",
+   "alt": "Cake butternut et curcuma (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "caviar-de-courgettes": {
+  "image": {
+   "url": "/img/caviar-de-courgettes.webp",
+   "alt": "Caviar de courgettes (photo d'illustration)",
+   "credit": "Mariya Voronina (Мария Воронина). food4all.ru. Colour corrections and cropped by / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Squash_caviar_9.jpg"
+  }
+ },
+ "cheesecake-au-citron-a-lorange-et-au-gingembre": {
+  "image": {
+   "url": "/img/cheesecake-au-citron-a-lorange-et-au-gingembre.webp",
+   "alt": "Cheesecake au citron a lorange et au gingembre (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Amalfi_Lemon_Cheesecake_-_Tavola_Di_Famiglia_2026-02-27.jpg"
+  }
+ },
+ "cheesecake-chocolat-noisettes": {
+  "image": {
+   "url": "/img/cheesecake-chocolat-noisettes.webp",
+   "alt": "Cheesecake chocolat noisettes (photo d'illustration)",
+   "credit": "karendotcom127 from New York, USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cut_chocolate_cheesecake_(4047468554).jpg"
+  }
+ },
+ "cheesecake-mangue-noix-de-coco": {
+  "image": {
+   "url": "/img/cheesecake-mangue-noix-de-coco.webp",
+   "alt": "Cheesecake mangue noix de coco (photo d'illustration)",
+   "credit": "Kirti Poddar / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Mango_Cheesecake.jpg"
+  }
+ },
+ "chevre-epinards": {
+  "image": {
+   "url": "/img/chevre-epinards.webp",
+   "alt": "Chevre epinards (photo d'illustration)",
+   "credit": "Chris Olszewski / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Beetroot,_spinach,_rocket,_goat_cheese_and_pumpkin_seeds_salad.jpg"
+  }
+ },
+ "chili-con-carne": {
+  "image": {
+   "url": "/img/chili-con-carne.webp",
+   "alt": "Chili con carne (photo d'illustration)",
+   "credit": "Carstor / Wikimedia Commons (CC BY-SA 2.5)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowl_of_chili.jpg"
+  }
+ },
+ "chips-maison": {
+  "image": {
+   "url": "/img/chips-maison.webp",
+   "alt": "Chips maison (photo d'illustration)",
+   "credit": "Ann from USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Homemade_Potato_Chips_(11115638044).jpg"
+  }
+ },
+ "chocolat-a-lancienne": {
+  "image": {
+   "url": "/img/chocolat-a-lancienne.webp",
+   "alt": "Chocolat a lancienne (photo d'illustration)",
+   "credit": "ᐃᓄᒃᑎᑐᑦ / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:A_cup_of_almost_finished_hot_chocolate_with_marshmallows..jpg"
+  }
+ },
+ "chutney-de-kaki": {
+  "image": {
+   "url": "/img/chutney-de-kaki.webp",
+   "alt": "Chutney de kaki (photo d'illustration)",
+   "credit": "Gaurav Dhwaj Khadka / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tomato_Chutney_1.jpg"
+  }
+ },
+ "clafoutis-poires-et-marrons": {
+  "image": {
+   "url": "/img/clafoutis-poires-et-marrons.webp",
+   "alt": "Clafoutis poires et marrons (photo d'illustration)",
+   "credit": "Popo le Chien / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Clafoutis_cerises.jpg"
+  }
+ },
+ "cocktail-de-noel": {
+  "image": {
+   "url": "/img/cocktail-de-noel.webp",
+   "alt": "Cocktail de noel (photo d'illustration)",
+   "credit": "Clocksnmirrors / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:COCKTAIL_VODKA_CRANBERRY_ICE.jpg"
+  }
+ },
+ "cocotte-au-four": {
+  "image": {
+   "url": "/img/cocotte-au-four.webp",
+   "alt": "Cocotte au four (photo d'illustration)",
+   "credit": "Kolforn (Kolforn)\nI'd appreciate if you could mail me (Kolforn@gmail.com) if you / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:-2021-11-25_A_dish_of_Pan_haggerty,_Trimingham,_Norfolk_(2).JPG"
+  }
+ },
+ "confit-de-canard-et-pommes-de-terre-sarladaises": {
+  "image": {
+   "url": "/img/confit-de-canard-et-pommes-de-terre-sarladaises.webp",
+   "alt": "Confit de canard et pommes de terre sarladaises (photo d'illustration)",
+   "credit": "Missvain / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Duck_confit_-_the_girl_and_the_fig_-_2021-11-10_-_Sarah_Stierch.jpg"
+  }
+ },
+ "confiture-de-lait": {
+  "image": {
+   "url": "/img/confiture-de-lait.webp",
+   "alt": "Confiture de lait (photo d'illustration)",
+   "credit": "audinou from Paris, France / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:DulceDeLeche.jpg"
+  }
+ },
+ "cote-de-veau-petits-pois-carottes": {
+  "image": {
+   "url": "/img/cote-de-veau-petits-pois-carottes.webp",
+   "alt": "Côte de veau petits pois carottes (photo d'illustration)",
+   "credit": "Gerda Arendt / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Veal_chop,_Steckenroth.jpg"
+  }
+ },
+ "creme-glacee-au-chocolat": {
+  "image": {
+   "url": "/img/creme-glacee-au-chocolat.webp",
+   "alt": "Creme glacee au chocolat (photo d'illustration)",
+   "credit": "Veganbaking.net from USA / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegan_Double_Chocolate_Brownie_Chunk_Ice_Cream_(4869832969).jpg"
+  }
+ },
+ "crepes-flambees-au-rhum": {
+  "image": {
+   "url": "/img/crepes-flambees-au-rhum.webp",
+   "alt": "Crepes flambees au rhum (photo d'illustration)",
+   "credit": "Ewen Roberts from San Diego, CA, United States / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:The_chef_prepares_the_Cr%C3%AApe_Suzette.jpg"
+  }
+ },
+ "croquettes-de-brebis": {
+  "image": {
+   "url": "/img/croquettes-de-brebis.webp",
+   "alt": "Croquettes de brebis (photo d'illustration)",
+   "credit": "Biswarup Ganguly / Wikimedia Commons (CC BY 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Corn_and_Cheese_Croquettes_-_Rajarhat_-_North_24_Parganas_2013-06-15_0619.JPG"
+  }
+ },
+ "crumble-cerises-et-framboises": {
+  "image": {
+   "url": "/img/crumble-cerises-et-framboises.webp",
+   "alt": "Crumble cerises et framboises (photo d'illustration)",
+   "credit": "Ewelina Podrez-Siama / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Fruit_under_the_crumble_(KETO,_LCHF,_Low_Carb,_Gluten_free,_FIT).jpg"
+  }
+ },
+ "crumpet": {
+  "image": {
+   "url": "/img/crumpet.webp",
+   "alt": "Crumpet (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Giant_cheese_rarebit_crumpet_-_M%26S_Caf%C3%A9_2023-12-28.jpg"
+  }
+ },
+ "curry-vegetalien": {
+  "image": {
+   "url": "/img/curry-vegetalien.webp",
+   "alt": "Curry vegetalien (photo d'illustration)",
+   "credit": "Dolon Prova / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Mixed_vegetable_curry_1.jpg"
+  }
+ },
+ "dhal-de-lentilles-corail-express": {
+  "image": {
+   "url": "/img/dhal-de-lentilles-corail-express.webp",
+   "alt": "Dhal de lentilles corail express (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "dos-de-cabillaud-mais-et-emulsion-au-lard": {
+  "image": {
+   "url": "/img/dos-de-cabillaud-mais-et-emulsion-au-lard.webp",
+   "alt": "Dos de cabillaud mais et emulsion au lard (photo d'illustration)",
+   "credit": "Lionel Allorge / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Novotel_Saclay_2013_plat_2.jpg"
+  }
+ },
+ "falafels": {
+  "image": {
+   "url": "/img/falafels.webp",
+   "alt": "Falafels (photo d'illustration)",
+   "credit": "Miansari66 / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Falafel_1.JPG"
+  }
+ },
+ "focaccia": {
+  "image": {
+   "url": "/img/focaccia.webp",
+   "alt": "Focaccia (photo d'illustration)",
+   "credit": "Benoît Prieur / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Focaccia_sucr%C3%A9e_%C3%A0_Focaccia_(Part-Dieu)_%C3%A0_Lyon.jpg"
+  }
+ },
+ "foret-noire": {
+  "image": {
+   "url": "/img/foret-noire.webp",
+   "alt": "Foret noire (photo d'illustration)",
+   "credit": "Mikelo / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_Forest_gateau.jpg"
+  }
+ },
+ "fraises-au-mascarpone": {
+  "image": {
+   "url": "/img/fraises-au-mascarpone.webp",
+   "alt": "Fraises au mascarpone (photo d'illustration)",
+   "credit": "Kathryn Rotondo / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Moosewood_strawberry_mascarpone_tart,_2008.jpg"
+  }
+ },
+ "frites-maison-a-la-belge": {
+  "image": {
+   "url": "/img/frites-maison-a-la-belge.webp",
+   "alt": "Frites maison a la belge (photo d'illustration)",
+   "credit": "Acabashi / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Plate_of_chips_at_the_Chalet_Cafe,_Cowfold,_West_Sussex,_England.jpg"
+  }
+ },
+ "galette-des-rois-a-la-frangipane": {
+  "image": {
+   "url": "/img/galette-des-rois-a-la-frangipane.webp",
+   "alt": "Galette des rois a la frangipane (photo d'illustration)",
+   "credit": "Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Galette_Frangipane_2021.jpg"
+  }
+ },
+ "galette-des-rois-chocolat-pistache": {
+  "image": {
+   "url": "/img/galette-des-rois-chocolat-pistache.webp",
+   "alt": "Galette des rois chocolat pistache (photo d'illustration)",
+   "credit": "Benh LIEU SONG (Flickr) / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Galette_Frangipane_2021.jpg"
+  }
+ },
+ "galettes-de-confinement": {
+  "image": {
+   "url": "/img/galettes-de-confinement.webp",
+   "alt": "Galettes de confinement (photo d'illustration)",
+   "credit": "Evan-Amos / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Choc-Chip-Cookie.jpg"
+  }
+ },
+ "gaspacho-concombre-avocat": {
+  "image": {
+   "url": "/img/gaspacho-concombre-avocat.webp",
+   "alt": "Gaspacho concombre avocat (photo d'illustration)",
+   "credit": "Karen and Brad Emerson / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Honeydew_%2B_cucumber_gazpacho_and_rice_salad_with_fresh_peas_(5808965925).jpg"
+  }
+ },
+ "gateau-a-la-noix-et-au-miel": {
+  "image": {
+   "url": "/img/gateau-a-la-noix-et-au-miel.webp",
+   "alt": "Gateau a la noix et au miel (photo d'illustration)",
+   "credit": "parkyang1021 / Wikimedia Commons (CC BY 2.0 kr)",
+   "source": "https://commons.wikimedia.org/wiki/File:Hodugwaja.jpg"
+  }
+ },
+ "gateau-a-lorange": {
+  "image": {
+   "url": "/img/gateau-a-lorange.webp",
+   "alt": "Gateau a lorange (photo d'illustration)",
+   "credit": "روتانا / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Orange_Cake_Garnished_with_Fresh_Citrus_Slices.jpg"
+  }
+ },
+ "gateau-de-semoule": {
+  "image": {
+   "url": "/img/gateau-de-semoule.webp",
+   "alt": "Gateau de semoule (photo d'illustration)",
+   "credit": "Zserghei / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Semolina_cake.jpg"
+  }
+ },
+ "gnocchi": {
+  "image": {
+   "url": "/img/gnocchi.webp",
+   "alt": "Gnocchi (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Gnocchi_Carbonara_-_Moontone.jpg"
+  }
+ },
+ "granite-a-la-fraise": {
+  "image": {
+   "url": "/img/granite-a-la-fraise.webp",
+   "alt": "Granite a la fraise (photo d'illustration)",
+   "credit": "Jeanne Griffin / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Granita_Sicilian_15-8-2024.jpg"
+  }
+ },
+ "gratin-de-chou-fleur": {
+  "image": {
+   "url": "/img/gratin-de-chou-fleur.webp",
+   "alt": "Gratin de chou fleur (photo d'illustration)",
+   "credit": "Vegan Feast Catering / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cauliflower_Au_Gratin_(4527747147).jpg"
+  }
+ },
+ "gratin-de-macaronis-au-fromage": {
+  "image": {
+   "url": "/img/gratin-de-macaronis-au-fromage.webp",
+   "alt": "Gratin de macaronis au fromage (photo d'illustration)",
+   "credit": "pelican from Tokyo, Japan / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chicken_macaroni_gratin_(8256535271).jpg"
+  }
+ },
+ "gratin-de-pommes-de-terre": {
+  "image": {
+   "url": "/img/gratin-de-pommes-de-terre.webp",
+   "alt": "Gratin de pommes de terre (photo d'illustration)",
+   "credit": "Ludovic Péron / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Gratin_dauphinois.jpg"
+  }
+ },
+ "gratin-inspiration-normande": {
+  "image": {
+   "url": "/img/gratin-inspiration-normande.webp",
+   "alt": "Gratin inspiration normande (photo d'illustration)",
+   "credit": "Dreamyshade / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Potato_gratin_on_stove.jpg"
+  }
+ },
+ "gyozas-vegetariens": {
+  "image": {
+   "url": "/img/gyozas-vegetariens.webp",
+   "alt": "Gyozas vegetariens (photo d'illustration)",
+   "credit": "Mshuang2 / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Dumplings_on_a_blue_plate.jpg"
+  }
+ },
+ "hamburger-classique": {
+  "image": {
+   "url": "/img/hamburger-classique.webp",
+   "alt": "Hamburger classique (photo d'illustration)",
+   "credit": "Evan-Amos / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Big_Mac_hamburger.jpg"
+  }
+ },
+ "kimchijeon": {
+  "image": {
+   "url": "/img/kimchijeon.webp",
+   "alt": "Kimchijeon (photo d'illustration)",
+   "credit": "by Prince Roy / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Korean_pancake-Kimchijeon-01.jpg"
+  }
+ },
+ "la-truite-mi-cuite-sauce-ciboulette": {
+  "image": {
+   "url": "/img/la-truite-mi-cuite-sauce-ciboulette.webp",
+   "alt": "La truite mi cuite sauce ciboulette (photo d'illustration)",
+   "credit": "Navjot Singh from London, Shanghai, United Kingdom / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Fillet_of_Quebec_Rainbow_Trout_Grenobloise-_Horizon_Restaurant_(14136857964).jpg"
+  }
+ },
+ "langoustines-a-la-mer": {
+  "image": {
+   "url": "/img/langoustines-a-la-mer.webp",
+   "alt": "Langoustines a la mer (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "lasagnes-epinards-champignons": {
+  "image": {
+   "url": "/img/lasagnes-epinards-champignons.webp",
+   "alt": "Lasagnes epinards champignons (photo d'illustration)",
+   "credit": "Rubyran / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegan_mushroom_and_spinach_lasagna.jpg"
+  }
+ },
+ "lasagnes-vegetariennes": {
+  "image": {
+   "url": "/img/lasagnes-vegetariennes.webp",
+   "alt": "Lasagnes vegetariennes (photo d'illustration)",
+   "credit": "FloGalsen / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegetarian-lasagna_.jpg"
+  }
+ },
+ "lassi-a-la-mangue": {
+  "image": {
+   "url": "/img/lassi-a-la-mangue.webp",
+   "alt": "Lassi a la mangue (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Mango_Lassi_and_Butter_Milk_-_Vel_South_Indian_Kitchen_%2B_Bar.jpg"
+  }
+ },
+ "le-boeuf-rossini": {
+  "image": {
+   "url": "/img/le-boeuf-rossini.webp",
+   "alt": "Le boeuf rossini (photo d'illustration)",
+   "credit": "Arnaud 25 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tournedos_Rossini_1.jpg"
+  }
+ },
+ "le-roux": {
+  "image": {
+   "url": "/img/le-roux.webp",
+   "alt": "Le roux (photo d'illustration)",
+   "credit": "Roger469 / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Roux_bianco.JPG"
+  }
+ },
+ "legumes-farcis": {
+  "image": {
+   "url": "/img/legumes-farcis.webp",
+   "alt": "Legumes farcis (photo d'illustration)",
+   "credit": "Tangopaso / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Petits_farcis_ni%C3%A7ois.jpg"
+  }
+ },
+ "legumes-glaces": {
+  "image": {
+   "url": "/img/legumes-glaces.webp",
+   "alt": "Legumes glaces (photo d'illustration)",
+   "credit": "Karen and Brad Emerson / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Spicy_orange_glazed_tofu_w_Israeli_couscous_and_ginger_glazed_carrots_(4260850655).jpg"
+  }
+ },
+ "les-5-sauces-meres-a-connaitre": {
+  "image": {
+   "url": "/img/les-5-sauces-meres-a-connaitre.webp",
+   "alt": "Les 5 sauces meres a connaitre (photo d'illustration)",
+   "credit": "Jacek Halicki / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:2021_Sos_beszamelowy.jpg"
+  }
+ },
+ "les-croquetas-de-maigre": {
+  "image": {
+   "url": "/img/les-croquetas-de-maigre.webp",
+   "alt": "Les croquetas de maigre (photo d'illustration)",
+   "credit": "Jonathan Pincas from Leon, Spain / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Croquetas_Caseras_(7068664101).jpg"
+  }
+ },
+ "les-huitres-chaudes-a-la-noisette": {
+  "image": {
+   "url": "/img/les-huitres-chaudes-a-la-noisette.webp",
+   "alt": "Les huitres chaudes a la noisette (photo d'illustration)",
+   "credit": "ノボホショコロトソ / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Baked_Oysters_18.jpg"
+  }
+ },
+ "madeleines-fourrees-a-la-pate-a-tartiner": {
+  "image": {
+   "url": "/img/madeleines-fourrees-a-la-pate-a-tartiner.webp",
+   "alt": "Madeleines fourrees a la pate a tartiner (photo d'illustration)",
+   "credit": "myself (Bernard Leprêtre) / Wikimedia Commons (CC BY-SA 2.5)",
+   "source": "https://commons.wikimedia.org/wiki/File:Madeleines_de_Commercy.jpg"
+  }
+ },
+ "mafe-de-poulet": {
+  "image": {
+   "url": "/img/mafe-de-poulet.webp",
+   "alt": "Mafe de poulet (photo d'illustration)",
+   "credit": "Nicolas PHULPIN / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Maf%C3%A9_S%C3%A9n%C3%A9galais.jpg"
+  }
+ },
+ "magret-de-canard-et-polenta-croustillante": {
+  "image": {
+   "url": "/img/magret-de-canard-et-polenta-croustillante.webp",
+   "alt": "Magret de canard et polenta croustillante (photo d'illustration)",
+   "credit": "PierreSelim / Wikimedia Commons (CC BY 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Magret_de_canard_et_foie_gras.jpg"
+  }
+ },
+ "mango-sticky-rice": {
+  "image": {
+   "url": "/img/mango-sticky-rice.webp",
+   "alt": "Mango sticky rice (photo d'illustration)",
+   "credit": "Dennis Wong from Hong Kong, Hong Kong / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Mango_sticy_rice_(3859549574).jpg"
+  }
+ },
+ "margarita": {
+  "image": {
+   "url": "/img/margarita.webp",
+   "alt": "Margarita (photo d'illustration)",
+   "credit": "Personal Creations / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cherry_beer_margarita_in_a_glass_with_lime_and_straw_and_maraschino_(18492281828).jpg"
+  }
+ },
+ "matcha-latte": {
+  "image": {
+   "url": "/img/matcha-latte.webp",
+   "alt": "Matcha latte (photo d'illustration)",
+   "credit": "Irvan Ary Maulana / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Matcha_tea_latte_with_rosetta_latte_art.jpg"
+  }
+ },
+ "meringues": {
+  "image": {
+   "url": "/img/meringues.webp",
+   "alt": "Meringues (photo d'illustration)",
+   "credit": "Ruth Hartnup from Vancouver, Canada / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Homemade_meringues_(16961016019).jpg"
+  }
+ },
+ "mimosa-passion": {
+  "image": {
+   "url": "/img/mimosa-passion.webp",
+   "alt": "Mimosa passion (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "mini-mille-feuilles-de-pommes-de-terre-et-fromage-abondance": {
+  "image": {
+   "url": "/img/mini-mille-feuilles-de-pommes-de-terre-et-fromage-abondance.webp",
+   "alt": "Mini mille feuilles de pommes de terre et fromage abondance (photo d'illustration)",
+   "credit": "Herry Lawford from Stockbridge, UK / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pommes_Anna_(32311397556).jpg"
+  }
+ },
+ "moelleux-au-chocolat": {
+  "image": {
+   "url": "/img/moelleux-au-chocolat.webp",
+   "alt": "Moelleux au chocolat (photo d'illustration)",
+   "credit": "FotoosVanRobin from Netherlands / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chocolate_Fondant.jpg"
+  }
+ },
+ "moules-froides": {
+  "image": {
+   "url": "/img/moules-froides.webp",
+   "alt": "Moules froides (photo d'illustration)",
+   "credit": "Dtarazona / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Choritos_a_la_chalaca.JPG"
+  }
+ },
+ "moules-mascarpone-et-curry": {
+  "image": {
+   "url": "/img/moules-mascarpone-et-curry.webp",
+   "alt": "Moules mascarpone et curry (photo d'illustration)",
+   "credit": "Benoît Prieur / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Moules_marini%C3%A8res_%C3%A0_La_Rose_Blanche_(Bruxelles).jpg"
+  }
+ },
+ "mousse-au-chocolat-express": {
+  "image": {
+   "url": "/img/mousse-au-chocolat-express.webp",
+   "alt": "Mousse au chocolat express (photo d'illustration)",
+   "credit": "Lu from Seattle, USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chocolate_coffee_mousse.jpg"
+  }
+ },
+ "mousse-au-chocolat": {
+  "image": {
+   "url": "/img/mousse-au-chocolat.webp",
+   "alt": "Mousse au chocolat (photo d'illustration)",
+   "credit": "Lu from Seattle, USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chocolate_coffee_mousse.jpg"
+  }
+ },
+ "muffins-aux-pepites-de-chocolat": {
+  "image": {
+   "url": "/img/muffins-aux-pepites-de-chocolat.webp",
+   "alt": "Muffins aux pepites de chocolat (photo d'illustration)",
+   "credit": "Caroline Hadilaksono / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegan_oatmeal_chocolate_chip_muffins.jpg"
+  }
+ },
+ "naans": {
+  "image": {
+   "url": "/img/naans.webp",
+   "alt": "Naans (photo d'illustration)",
+   "credit": "Ravi Dwivedi / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Naan_baked_in_Tandoor.jpg"
+  }
+ },
+ "nems-au-porc": {
+  "image": {
+   "url": "/img/nems-au-porc.webp",
+   "alt": "Nems au porc (photo d'illustration)",
+   "credit": "Phương Huy / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Ch%E1%BA%A3_gi%C3%B2_SG_(nem_r%C3%A1n_gi%C3%B2n)_%E1%BB%9F_qu%C3%A1n_b%C3%BAn_ri%C3%AAu_B%C3%A0_Ti_ng26th7n2023_(3).jpg"
+  }
+ },
+ "nouilles-fraiches-maison": {
+  "image": {
+   "url": "/img/nouilles-fraiches-maison.webp",
+   "alt": "Nouilles fraiches maison (photo d'illustration)",
+   "credit": "Ibrahim Husain Meraj / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Homemade_Mixed_Noodles_02.JPG"
+  }
+ },
+ "nouilles-sautees-facon-thai": {
+  "image": {
+   "url": "/img/nouilles-sautees-facon-thai.webp",
+   "alt": "Nouilles sautees facon thai (photo d'illustration)",
+   "credit": "Vee Satayamas / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pad_See_Ew_-_Bangkok.jpg"
+  }
+ },
+ "oeufs-cocotte-aux-girolles": {
+  "image": {
+   "url": "/img/oeufs-cocotte-aux-girolles.webp",
+   "alt": "Oeufs cocotte aux girolles (photo d'illustration)",
+   "credit": "Charlie1 / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Oeufs_cocotte_provencale.jpg"
+  }
+ },
+ "oeufs-farcis-chimay": {
+  "image": {
+   "url": "/img/oeufs-farcis-chimay.webp",
+   "alt": "Oeufs farcis chimay (photo d'illustration)",
+   "credit": "Marshall Astor from San Pedro, United States / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Deviled_Eggs_-_3-23-08.jpg"
+  }
+ },
+ "oeufs-mimosa": {
+  "image": {
+   "url": "/img/oeufs-mimosa.webp",
+   "alt": "Oeufs mimosa (photo d'illustration)",
+   "credit": "Jpbrigand2 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:%C5%92ufs_mimosa_3.jpg"
+  }
+ },
+ "oeufs-tikka-masala": {
+  "image": {
+   "url": "/img/oeufs-tikka-masala.webp",
+   "alt": "Oeufs tikka masala (photo d'illustration)",
+   "credit": "https://onlybestrecipes.com/egg-curry-recipeegg-curry-recipe/ / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Spicy_Anda_Curry.jpg"
+  }
+ },
+ "omelette-thai": {
+  "image": {
+   "url": "/img/omelette-thai.webp",
+   "alt": "Omelette thai (photo d'illustration)",
+   "credit": "Iudexvivorum / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Crispy_pork_phat_thai_in_omelette_ball_-_Chiang_Rai_-_2017-07-03_(001).jpg"
+  }
+ },
+ "onigirazu": {
+  "image": {
+   "url": "/img/onigirazu.webp",
+   "alt": "Onigirazu (photo d'illustration)",
+   "credit": "tednmiki / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Japanese_rice_balls_(onigiri).jpg"
+  }
+ },
+ "onigiris": {
+  "image": {
+   "url": "/img/onigiris.webp",
+   "alt": "Onigiris (photo d'illustration)",
+   "credit": "tednmiki / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Japanese_rice_balls_(onigiri).jpg"
+  }
+ },
+ "onion-rings": {
+  "image": {
+   "url": "/img/onion-rings.webp",
+   "alt": "Onion rings (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Onion_Rings_-_Gourmet_Burger_Kitchen_2023-10-03.jpg"
+  }
+ },
+ "pad-thai": {
+  "image": {
+   "url": "/img/pad-thai.webp",
+   "alt": "Pad thai (photo d'illustration)",
+   "credit": "Takeaway / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg"
+  }
+ },
+ "pain-de-noel": {
+  "image": {
+   "url": "/img/pain-de-noel.webp",
+   "alt": "Pain de noel (photo d'illustration)",
+   "credit": "stu_spivack / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Sliced_stollen_on_a_plate.jpg"
+  }
+ },
+ "pain-depices": {
+  "image": {
+   "url": "/img/pain-depices.webp",
+   "alt": "Pain depices (photo d'illustration)",
+   "credit": "David Monniaux / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pain_depices_p1050128.jpg"
+  }
+ },
+ "pains-a-burger-brioches": {
+  "image": {
+   "url": "/img/pains-a-burger-brioches.webp",
+   "alt": "Pains a burger brioches (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Dirty_Bacon_Brunch_Burger_-_Moksha_Caff%C3%A8_2023-09-13.jpg"
+  }
+ },
+ "panna-cotta-aux-fruits-rouges": {
+  "image": {
+   "url": "/img/panna-cotta-aux-fruits-rouges.webp",
+   "alt": "Panna cotta aux fruits rouges (photo d'illustration)",
+   "credit": "Kimberly Vardeman / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Panna_Cotta_with_fresh_berries_(detail).jpg"
+  }
+ },
+ "panna-cotta": {
+  "image": {
+   "url": "/img/panna-cotta.webp",
+   "alt": "Panna cotta (photo d'illustration)",
+   "credit": "hiro / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Panna_Cotta_with_cream_and_garnish.jpg"
+  }
+ },
+ "papillote-de-saumon": {
+  "image": {
+   "url": "/img/papillote-de-saumon.webp",
+   "alt": "Papillote de saumon (photo d'illustration)",
+   "credit": "edseloh / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_Cod_en_Papillot.jpg"
+  }
+ },
+ "pastilla": {
+  "image": {
+   "url": "/img/pastilla.webp",
+   "alt": "Pastilla (photo d'illustration)",
+   "credit": "le vrai Mister Jack / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pastilla_d%27agneau.jpg"
+  }
+ },
+ "pate-feuilletee": {
+  "image": {
+   "url": "/img/pate-feuilletee.webp",
+   "alt": "Pate feuilletee (photo d'illustration)",
+   "credit": "Popo le Chien / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pate_feuilletee.jpg"
+  }
+ },
+ "pate-sablee": {
+  "image": {
+   "url": "/img/pate-sablee.webp",
+   "alt": "Pate sablee (photo d'illustration)",
+   "credit": "Romain Behar / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Recette_pate_brisee_etape_6.jpg"
+  }
+ },
+ "pates-au-saumon": {
+  "image": {
+   "url": "/img/pates-au-saumon.webp",
+   "alt": "Pates au saumon (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Smoked_salmon_pasta_-_Figaros,_Brighton_2024-04-19.jpg"
+  }
+ },
+ "pates-fraiches-legeres": {
+  "image": {
+   "url": "/img/pates-fraiches-legeres.webp",
+   "alt": "Pates fraiches legeres (photo d'illustration)",
+   "credit": "David Adam Kess / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:(Pasta)_by_David_Adam_Kess_(pic.2).jpg"
+  }
+ },
+ "pates-fraiches-riches-aux-jaunes-doeufs": {
+  "image": {
+   "url": "/img/pates-fraiches-riches-aux-jaunes-doeufs.webp",
+   "alt": "Pates fraiches riches aux jaunes doeufs (photo d'illustration)",
+   "credit": "ZsoltHubicska / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cooking-cuisine-delicious-egg-327143.jpg"
+  }
+ },
+ "pavlova": {
+  "image": {
+   "url": "/img/pavlova.webp",
+   "alt": "Pavlova (photo d'illustration)",
+   "credit": "Siobhan Leachman / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pavlova_baking.jpg"
+  }
+ },
+ "penne-allarrabbiata": {
+  "image": {
+   "url": "/img/penne-allarrabbiata.webp",
+   "alt": "Penne allarrabbiata (photo d'illustration)",
+   "credit": "Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Penne_Arrabbiata.jpg"
+  }
+ },
+ "pickles-doignons-express": {
+  "image": {
+   "url": "/img/pickles-doignons-express.webp",
+   "alt": "Pickles doignons express (photo d'illustration)",
+   "credit": "Kotivalo / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pickled_red_onion_in_jar.jpg"
+  }
+ },
+ "pizza-au-curry": {
+  "image": {
+   "url": "/img/pizza-au-curry.webp",
+   "alt": "Pizza au curry (photo d'illustration)",
+   "credit": "Petar Milošević / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegetarian_Pizza.jpg"
+  }
+ },
+ "popcorn": {
+  "image": {
+   "url": "/img/popcorn.webp",
+   "alt": "Popcorn (photo d'illustration)",
+   "credit": "Alex Munsell alexmunsell / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowl_of_Popcorn_(Unsplash).jpg"
+  }
+ },
+ "porc-caramel-sesame": {
+  "image": {
+   "url": "/img/porc-caramel-sesame.webp",
+   "alt": "Porc caramel sesame (photo d'illustration)",
+   "credit": "Viethavvh / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Th%E1%BB%8Bt_kho_T%C3%A0u.jpg"
+  }
+ },
+ "porc-tonkatsu-curry-riz": {
+  "image": {
+   "url": "/img/porc-tonkatsu-curry-riz.webp",
+   "alt": "Porc tonkatsu curry riz (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_Katsu_Curry_and_Chicken_Katsu_Curry_-_Sunoso.jpg"
+  }
+ },
+ "poulet-a-la-creme-en-cocotte": {
+  "image": {
+   "url": "/img/poulet-a-la-creme-en-cocotte.webp",
+   "alt": "Poulet a la creme en cocotte (photo d'illustration)",
+   "credit": "Sebleouf / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cuisse_de_poulet_%C3%A0_la_cr%C3%A8me,_olives,_carottes_et_risotto_%C3%A0_La_Tablature_(Lyon,_2019).jpg"
+  }
+ },
+ "poulet-au-gingembre": {
+  "image": {
+   "url": "/img/poulet-au-gingembre.webp",
+   "alt": "Poulet au gingembre (photo d'illustration)",
+   "credit": "CNEcija12345 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Steamed_chicken_with_ginger_sauce.jpg"
+  }
+ },
+ "poulet-entier-roti-au-four": {
+  "image": {
+   "url": "/img/poulet-entier-roti-au-four.webp",
+   "alt": "Poulet entier roti au four (photo d'illustration)",
+   "credit": "Evan Swigart from Chicago, USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg"
+  }
+ },
+ "poulet-facon-coq-au-vin": {
+  "image": {
+   "url": "/img/poulet-facon-coq-au-vin.webp",
+   "alt": "Poulet facon coq au vin (photo d'illustration)",
+   "credit": "Breville USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Coq_au_Vin_6of7_(8735164745).jpg"
+  }
+ },
+ "poulet-popcorn": {
+  "image": {
+   "url": "/img/poulet-popcorn.webp",
+   "alt": "Poulet popcorn (photo d'illustration)",
+   "credit": "Mike Mozart from Funny YouTube, USA / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:KFC_Popcorn_Chicken_(12956064765).jpg"
+  }
+ },
+ "poulet-yassa": {
+  "image": {
+   "url": "/img/poulet-yassa.webp",
+   "alt": "Poulet yassa (photo d'illustration)",
+   "credit": "KVDP at English Wikipedia / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Yassapoulet.JPG"
+  }
+ },
+ "pumpkin-pie": {
+  "image": {
+   "url": "/img/pumpkin-pie.webp",
+   "alt": "Pumpkin pie (photo d'illustration)",
+   "credit": "Peggy Greb / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_Pie.jpg"
+  }
+ },
+ "puree-a-lancienne": {
+  "image": {
+   "url": "/img/puree-a-lancienne.webp",
+   "alt": "Puree a lancienne (photo d'illustration)",
+   "credit": "Renee Comet (photographer) / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:MashedPotatoes.jpg"
+  }
+ },
+ "quatre-quarts": {
+  "image": {
+   "url": "/img/quatre-quarts.webp",
+   "alt": "Quatre quarts (photo d'illustration)",
+   "credit": "Kimberly Vardeman / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Almond_pound_cake,_angled_profile.jpg"
+  }
+ },
+ "quinotto": {
+  "image": {
+   "url": "/img/quinotto.webp",
+   "alt": "Quinotto (photo d'illustration)",
+   "credit": "Grandmaster Huon / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Alpaca_skewers_and_quinoa_risotto.jpeg"
+  }
+ },
+ "ramen-au-porc": {
+  "image": {
+   "url": "/img/ramen-au-porc.webp",
+   "alt": "Ramen au porc (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tonkotsu_Ramen_-_Goemon_Ramen_Bar_2023-06-06.jpg"
+  }
+ },
+ "ramen-vegetarien": {
+  "image": {
+   "url": "/img/ramen-vegetarien.webp",
+   "alt": "Ramen vegetarien (photo d'illustration)",
+   "credit": "Wiki Asmah / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegetarian_Ramen_20260716_-_02.jpg"
+  }
+ },
+ "recette-facile-de-parmigiana": {
+  "image": {
+   "url": "/img/recette-facile-de-parmigiana.webp",
+   "alt": "Recette facile de parmigiana (photo d'illustration)",
+   "credit": "Tamorlan / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Parmigiana_di_melanzane-cer.JPG"
+  }
+ },
+ "risotto-au-foie-gras-poele": {
+  "image": {
+   "url": "/img/risotto-au-foie-gras-poele.webp",
+   "alt": "Risotto au foie gras poele (photo d'illustration)",
+   "credit": "ＫｏＺ / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Orzo_and_mushroom_risotto_with_Gras_Foie_2.jpg"
+  }
+ },
+ "risotto-aux-legumes-dautomne": {
+  "image": {
+   "url": "/img/risotto-aux-legumes-dautomne.webp",
+   "alt": "Risotto aux legumes dautomne (photo d'illustration)",
+   "credit": "Alpha from Melbourne, Australia / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chicken_and_Pumpkin_Risotto-_Air,_David_Jones,_Chadstone_(1238453950).jpg"
+  }
+ },
+ "risotto-dautomne": {
+  "image": {
+   "url": "/img/risotto-dautomne.webp",
+   "alt": "Risotto dautomne (photo d'illustration)",
+   "credit": "Katrin Gilger / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Mushroom_Risotto_(4789415965).jpg"
+  }
+ },
+ "riz-cantonais": {
+  "image": {
+   "url": "/img/riz-cantonais.webp",
+   "alt": "Riz cantonais (photo d'illustration)",
+   "credit": "Grendelkhan / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pineapple_fried_rice_at_Banana_Leaf_in_Milpitas,_California.jpg"
+  }
+ },
+ "roti-de-porc-sauce-aux-kakis-pommes-de-terre-au-four": {
+  "image": {
+   "url": "/img/roti-de-porc-sauce-aux-kakis-pommes-de-terre-au-four.webp",
+   "alt": "Roti de porc sauce aux kakis pommes de terre au four (photo d'illustration)",
+   "credit": "Bahnfrend / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Roast_pork_and_Silesian_dumplings,_Pod_Si%C3%B3demk%C4%85,_Katowice,_2024_(01).jpg"
+  }
+ },
+ "saint-jacques-puree-de-butternut": {
+  "image": {
+   "url": "/img/saint-jacques-puree-de-butternut.webp",
+   "alt": "Saint jacques puree de butternut (photo d'illustration)",
+   "credit": "Gogerr / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pan_Seared_Scallops_from_the_Elora_Mill_Hotel_Restaurant.jpg"
+  }
+ },
+ "saint-jacques-sauce-champagne": {
+  "image": {
+   "url": "/img/saint-jacques-sauce-champagne.webp",
+   "alt": "Saint jacques sauce champagne (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "salade-betteraves-epinards-oeuf-poche": {
+  "image": {
+   "url": "/img/salade-betteraves-epinards-oeuf-poche.webp",
+   "alt": "Salade betteraves epinards oeuf poche (photo d'illustration)",
+   "credit": "Suzette - www.suzette.nu from Arnhem, Netherlands / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Beetroot_Salad_(3862315693).jpg"
+  }
+ },
+ "salade-cesar": {
+  "image": {
+   "url": "/img/salade-cesar.webp",
+   "alt": "Salade cesar (photo d'illustration)",
+   "credit": "Telluride / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Caesar-salad.jpg"
+  }
+ },
+ "salade-de-ble": {
+  "image": {
+   "url": "/img/salade-de-ble.webp",
+   "alt": "Salade de ble (photo d'illustration)",
+   "credit": "ohbernadine from Vancouver, Canada / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Wheatberry_salad.jpg"
+  }
+ },
+ "salade-de-chevre-chaud": {
+  "image": {
+   "url": "/img/salade-de-chevre-chaud.webp",
+   "alt": "Salade de chevre chaud (photo d'illustration)",
+   "credit": "Arnaud 25 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Salade_de_ch%C3%A8vre_chaud_002.jpg"
+  }
+ },
+ "salade-de-lentilles-legumes-et-feta": {
+  "image": {
+   "url": "/img/salade-de-lentilles-legumes-et-feta.webp",
+   "alt": "Salade de lentilles legumes et feta (photo d'illustration)",
+   "credit": "Benoît Prieur / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Salade_de_lentilles,_potimarron_r%C3%B4ti_et_Feta.jpg"
+  }
+ },
+ "salade-lyonnaise": {
+  "image": {
+   "url": "/img/salade-lyonnaise.webp",
+   "alt": "Salade lyonnaise (photo d'illustration)",
+   "credit": "Kjetil Ree / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Salade_lyonnaise_(9_June_2018).jpg"
+  }
+ },
+ "salade-nicoise": {
+  "image": {
+   "url": "/img/salade-nicoise.webp",
+   "alt": "Salade nicoise (photo d'illustration)",
+   "credit": "cyclonebill from Copenhagen, Denmark / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Salade_ni%C3%A7oise_(7545098258).jpg"
+  }
+ },
+ "salade-parisienne": {
+  "image": {
+   "url": "/img/salade-parisienne.webp",
+   "alt": "Salade parisienne (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "salade-piemontaise-revisitee": {
+  "image": {
+   "url": "/img/salade-piemontaise-revisitee.webp",
+   "alt": "Salade piemontaise revisitee (photo d'illustration)",
+   "credit": "jules / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Potato_salad_3.jpg"
+  }
+ },
+ "salade-thai-au-poulet": {
+  "image": {
+   "url": "/img/salade-thai-au-poulet.webp",
+   "alt": "Salade thai au poulet (photo d'illustration)",
+   "credit": "Bounthy / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Lao_Sua_Gai_(Sua_Chicken).jpg"
+  }
+ },
+ "salmorejo": {
+  "image": {
+   "url": "/img/salmorejo.webp",
+   "alt": "Salmorejo (photo d'illustration)",
+   "credit": "P.Lechien / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Salmorejo_cordouan.JPG"
+  }
+ },
+ "sauce-a-lorange": {
+  "image": {
+   "url": "/img/sauce-a-lorange.webp",
+   "alt": "Sauce a lorange (photo d'illustration)",
+   "credit": "Bopuc / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Canard_%C3%A0_l%27orange_et_ses_l%C3%A9gumes.jpg"
+  }
+ },
+ "saucisses-cocktail-panees": {
+  "image": {
+   "url": "/img/saucisses-cocktail-panees.webp",
+   "alt": "Saucisses cocktail panees (photo d'illustration)",
+   "credit": "Johnson524 / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bowl_of_Pigs_in_a_Blanket.jpg"
+  }
+ },
+ "saumon-sous-vide-bouillon-facile": {
+  "image": {
+   "url": "/img/saumon-sous-vide-bouillon-facile.webp",
+   "alt": "Saumon sous vide bouillon facile (photo d'illustration)",
+   "credit": "NOAA / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Poached_salmon_at_Tsunami_Symposium.jpg"
+  }
+ },
+ "soupe-a-la-tomate": {
+  "image": {
+   "url": "/img/soupe-a-la-tomate.webp",
+   "alt": "Soupe a la tomate (photo d'illustration)",
+   "credit": "Ruth Hartnup from Vancouver, Canada / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tomato_soup_in_a_sourdough_bread_bowl_(20179439271).jpg"
+  }
+ },
+ "soupe-champignons-moules": {
+  "image": {
+   "url": "/img/soupe-champignons-moules.webp",
+   "alt": "Soupe champignons moules (photo d'illustration)",
+   "credit": "Redeemer|Vodesnet / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cream_Mushroom_soup_2.jpg"
+  }
+ },
+ "soupe-moong": {
+  "image": {
+   "url": "/img/soupe-moong.webp",
+   "alt": "Soupe moong (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "soupe-pho": {
+  "image": {
+   "url": "/img/soupe-pho.webp",
+   "alt": "Soupe pho (photo d'illustration)",
+   "credit": "Kritzolina / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Ph%E1%BB%9F_b%C3%B2_in_a_German_restaurant_02.jpg"
+  }
+ },
+ "spaghetti-de-courgettes": {
+  "image": {
+   "url": "/img/spaghetti-de-courgettes.webp",
+   "alt": "Spaghetti de courgettes (photo d'illustration)",
+   "credit": "Daderot / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pea_greens,_zucchini_noodles,_bok_choy,_and_carrots,_with_grouper_-_Massachusetts.jpg"
+  }
+ },
+ "spicy-fizz": {
+  "image": {
+   "url": "/img/spicy-fizz.webp",
+   "alt": "Spicy fizz (photo d'illustration)",
+   "credit": "Ben Sutherland / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Porn_star_martini_cocktail.jpg"
+  }
+ },
+ "taboule": {
+  "image": {
+   "url": "/img/taboule.webp",
+   "alt": "Taboule (photo d'illustration)",
+   "credit": "cyclonebill / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Tabbouleh.jpg"
+  }
+ },
+ "tacos-les-vrais-du-mexique": {
+  "image": {
+   "url": "/img/tacos-les-vrais-du-mexique.webp",
+   "alt": "Tacos les vrais du mexique (photo d'illustration)",
+   "credit": "City Foodsters / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:(El_Flaco)_Al_Pastor_Tacos.jpg"
+  }
+ },
+ "tarte-au-flan": {
+  "image": {
+   "url": "/img/tarte-au-flan.webp",
+   "alt": "Tarte au flan (photo d'illustration)",
+   "credit": "Shanti, shanti / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Custard_tart_emerging_from_wrapper.jpg"
+  }
+ },
+ "tarte-aux-abricots": {
+  "image": {
+   "url": "/img/tarte-aux-abricots.webp",
+   "alt": "Tarte aux abricots (photo d'illustration)",
+   "credit": "Janet Hudson / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Lemon_Apricot_Flower_Tart_detail.jpg"
+  }
+ },
+ "tarte-aux-legumes": {
+  "image": {
+   "url": "/img/tarte-aux-legumes.webp",
+   "alt": "Tarte aux legumes (photo d'illustration)",
+   "credit": "Vegan Feast Catering / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vegetable_Tart_(4366626311).jpg"
+  }
+ },
+ "tarte-bourdaloue": {
+  "image": {
+   "url": "/img/tarte-bourdaloue.webp",
+   "alt": "Tarte bourdaloue (photo d'illustration)",
+   "credit": "Jebulon / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarte_aux_poires_2a.jpg"
+  }
+ },
+ "tarte-chocolat": {
+  "image": {
+   "url": "/img/tarte-chocolat.webp",
+   "alt": "Tarte chocolat (photo d'illustration)",
+   "credit": "Tammy Green / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Chocolate_tarts_by_Tammy_Green.jpg"
+  }
+ },
+ "tarte-coloree-et-fleurie": {
+  "image": {
+   "url": "/img/tarte-coloree-et-fleurie.webp",
+   "alt": "Tarte coloree et fleurie (photo d'illustration)",
+   "credit": "René Hourdry / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarte_aux_l%C3%A9gumes_A.jpg"
+  }
+ },
+ "tarte-legumes-ete": {
+  "image": {
+   "url": "/img/tarte-legumes-ete.webp",
+   "alt": "Tarte legumes ete (photo d'illustration)",
+   "credit": "René Hourdry / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarte_aux_l%C3%A9gumes_-_aubergines_courgettes_tomates_olives.jpg"
+  }
+ },
+ "tarte-tatin": {
+  "image": {
+   "url": "/img/tarte-tatin.webp",
+   "alt": "Tarte tatin (photo d'illustration)",
+   "credit": "Franck Chicot from Nantes, France / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Closeup_of_tarte_tatin_(13513714244).jpg"
+  }
+ },
+ "tartelette-au-kaki": {
+  "image": {
+   "url": "/img/tartelette-au-kaki.webp",
+   "alt": "Tartelette au kaki (photo d'illustration)",
+   "credit": "Missvain / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Persimmon_pudding_-_December_2023_-_Sarah_Stierch.jpg"
+  }
+ },
+ "tartiflette": {
+  "image": {
+   "url": "/img/tartiflette.webp",
+   "alt": "Tartiflette (photo d'illustration)",
+   "credit": "Benoît Prieur / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Une_tartiflette_sortie_du_four.jpg"
+  }
+ },
+ "tataki-de-thon": {
+  "image": {
+   "url": "/img/tataki-de-thon.webp",
+   "alt": "Tataki de thon (photo d'illustration)",
+   "credit": "毒島みるく / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Maguro-tataki-don_of_Sukiya.jpg"
+  }
+ },
+ "thiep-au-poulet": {
+  "image": {
+   "url": "/img/thiep-au-poulet.webp",
+   "alt": "Thiep au poulet (photo d'illustration)",
+   "credit": "KVDP / Wikimedia Commons (domaine public)",
+   "source": "https://commons.wikimedia.org/wiki/File:Thieboudienne.JPG"
+  }
+ },
+ "tian-de-legumes": {
+  "image": {
+   "url": "/img/tian-de-legumes.webp",
+   "alt": "Tian de legumes (photo d'illustration)",
+   "credit": "Arnaud 25 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tian_proven%C3%A7al_de_l%C3%A9gumes.jpg"
+  }
+ },
+ "tiramisu-au-cafe": {
+  "image": {
+   "url": "/img/tiramisu-au-cafe.webp",
+   "alt": "Tiramisu au cafe (photo d'illustration)",
+   "credit": "Anna.Massini / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Dolce_Tiramis%C3%B9_monoporzione.jpg"
+  }
+ },
+ "tortillas-mexicaine": {
+  "image": {
+   "url": "/img/tortillas-mexicaine.webp",
+   "alt": "Tortillas mexicaine (photo d'illustration)",
+   "credit": "Vigilantcosmicpenguin / Wikimedia Commons (CC BY 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Stacks_of_corn_tortillas_and_flour_tortillas,_top_view.jpg"
+  }
+ },
+ "veloute-de-haricots-blancs-et-lard": {
+  "image": {
+   "url": "/img/veloute-de-haricots-blancs-et-lard.webp",
+   "alt": "Veloute de haricots blancs et lard (photo d'illustration)",
+   "credit": "Gillgaramond / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bean_soup_with_tomatoes_and_red_peppers.jpeg"
+  }
+ },
+ "veloute-de-petit-pois": {
+  "image": {
+   "url": "/img/veloute-de-petit-pois.webp",
+   "alt": "Veloute de petit pois (photo d'illustration)",
+   "credit": "Eric Polk / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Andersens_Pea_Soup.jpg"
+  }
+ },
+ "verrines-dete-aux-crevettes": {
+  "image": {
+   "url": "/img/verrines-dete-aux-crevettes.webp",
+   "alt": "Verrines dete aux crevettes (photo d'illustration)",
+   "credit": "Myrabella / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Verrine.jpg"
+  }
+ },
+ "vichyssoise": {
+  "image": {
+   "url": "/img/vichyssoise.webp",
+   "alt": "Vichyssoise (photo d'illustration)",
+   "credit": "Андрей Романенко / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Vichyssoise_in_Can_Pere_Joan_restaurant.jpg"
+  }
+ },
+ "wellington-vegetarien": {
+  "image": {
+   "url": "/img/wellington-vegetarien.webp",
+   "alt": "Wellington vegetarien (image générée)",
+   "credit": "Image générée par IA (illustration provisoire)",
+   "source": ""
+  }
+ },
+ "yakisoba-au-porc": {
+  "image": {
+   "url": "/img/yakisoba-au-porc.webp",
+   "alt": "Yakisoba au porc (photo d'illustration)",
+   "credit": "Andy Li / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pork_yakisoba_and_tofu_yakisoba,_Korpan,_Brighton.jpg"
+  }
+ },
+ "yakitori-boeuf-fromage": {
+  "image": {
+   "url": "/img/yakitori-boeuf-fromage.webp",
+   "alt": "Yakitori boeuf fromage (photo d'illustration)",
+   "credit": "竹麦魚(Searobin) / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Cooking_yakitori.jpg"
+  }
+ },
+ "tarte-poire-chocolat": {
+  "image": {
+   "url": "/img/tarte-poire-chocolat.webp",
+   "alt": "Tarte poire chocolat (photo d'illustration)",
+   "credit": "jules / Wikimedia Commons (CC BY 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:The_model_child_chocolate_and_pear_tart,_2007.jpg"
+  }
+ },
+ "tartelette-au-citron-meringuee": {
+  "image": {
+   "url": "/img/tartelette-au-citron-meringuee.webp",
+   "alt": "Tartelettes au citron meringuées",
+   "credit": "Alpha / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Lemon_Meringue_Tart.jpg"
+  }
+ },
+ "tarte-au-kiwi-meringuee": {
+  "image": {
+   "url": "/img/tarte-au-kiwi-meringuee.webp",
+   "alt": "Part de tarte meringuée (photo provisoire)",
+   "credit": "Willis Lam / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Nathan%27s_Giant_Hamburgers_Lemon_Meringue_Pie_slice_(28722492010).jpg"
+  }
+ },
+ "clafoutis-cerises-crumble-pistache": {
+  "image": {
+   "url": "/img/clafoutis-cerises-crumble-pistache.webp",
+   "alt": "Clafoutis aux cerises, crumble à la pistache",
+   "credit": "Popo le Chien / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Clafoutis_cerises.jpg"
+  }
+ },
+ "cookies-noix-chocolat": {
+  "image": {
+   "url": "/img/cookies-noix-chocolat.webp",
+   "alt": "Cookies noix & chocolat",
+   "credit": "CNEcija12345 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Walnut_chocolate_chip_cookies_textures.jpg"
+  }
+ },
+ "tarte-rustique-mirabelles": {
+  "image": {
+   "url": "/img/tarte-rustique-mirabelles.webp",
+   "alt": "Tartes aux mirabelles de Lorraine",
+   "credit": "Arnaud 25 / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tarte_aux_mirabelles_de_Lorraine.jpg"
+  }
+ },
+ "pain-a-la-cocotte": {
+  "image": {
+   "url": "/img/pain-a-la-cocotte.webp",
+   "alt": "Pain maison sans pétrissage",
+   "credit": "Kbedell / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Bread_baked_in_my_home_using_the_%27no-knead%27_baking_method.jpg"
+  }
+ },
+ "pate-a-pizza-napolitaine": {
+  "image": {
+   "url": "/img/pate-a-pizza-napolitaine.webp",
+   "alt": "Pizza napolitaine margherita",
+   "credit": "bnilsen from Nashville, USA / Wikimedia Commons (CC BY-SA 2.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Tony%27s_Napoletana_Margherita_Pizza_(5991972038).jpg"
+  }
+ },
+ "pates-fraiches": {
+  "image": {
+   "url": "/img/pates-fraiches.webp",
+   "alt": "Tagliatelles fraîches maison",
+   "credit": "Arria Belli / Wikimedia Commons (CC BY-SA 3.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Nonna_tagliatelle_03.jpg"
+  }
+ },
+ "quiche-aux-blettes": {
+  "image": {
+   "url": "/img/quiche-aux-blettes.webp",
+   "alt": "Quiche aux blettes",
+   "credit": "E4024 / Wikimedia Commons (CC BY-SA 4.0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Quiche_(chard).jpg"
+  }
+ },
+ "tarte-a-la-moutarde": {
+  "image": {
+   "url": "/img/tarte-a-la-moutarde.webp",
+   "alt": "Fond de tarte nappé de moutarde",
+   "credit": "Benoît Prieur / Wikimedia Commons (CC0)",
+   "source": "https://commons.wikimedia.org/wiki/File:Pr%C3%A9paration_d%27une_tarte_%C3%A0_la_tomate_(03)_-_moutarde.jpg"
+  }
+ }
+}

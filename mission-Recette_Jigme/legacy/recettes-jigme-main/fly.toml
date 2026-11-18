@@ -1,0 +1,33 @@
+# Préprod uniquement — URL *.fly.dev, pas de domaine perso.
+app = "recettes-jigme-preprod"
+primary_region = "cdg"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[build.args]
+  TARGET = "preprod"
+  HONEYPOT = "1"
+
+[env]
+  ROBOTS_NOINDEX = "1"
+
+[http_service]
+  internal_port = 8080
+  # D28 : false, sinon le proxy Fly redirige aussi le flycast (http://<app>.flycast) vers https://<app>.flycast (inutilisable).
+  # La redirection HTTPS des hôtes publics *.fly.dev est faite par nginx (X-Forwarded-Proto=http).
+  force_https = false
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  # Garder 1 machine chaude : l'admin recettes (proxy) dépend de ce wake ;
+  # nginx met ~25 s à écouter 8080 → sinon listes vides / timeouts au cold start.
+  min_machines_running = 1
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "1gb"
+
+# Volume des MD édités par l'admin (préprod). Persiste entre stop/start.
+[mounts]
+  source = "recettes_live"
+  destination = "/var/recettes-live"
